@@ -1,0 +1,11 @@
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\bin\Debug\Million Dollar Project.exe.config
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\bin\Debug\Million Dollar Project.exe
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\bin\Debug\Million Dollar Project.pdb
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million Dollar Project.csproj.AssemblyReference.cache
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million_Dollar_Project.Form1.resources
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million_Dollar_Project.Properties.Resources.resources
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million Dollar Project.csproj.GenerateResource.cache
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million Dollar Project.csproj.CoreCompileInputs.cache
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million Dollar Project.exe
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million Dollar Project.pdb
+C:\Users\aymane\source\repos\programming advices\14 - C# - Level 1\Million Dollar Project\obj\Debug\Million_Dollar_Project.frmLoginOrSignup.resources

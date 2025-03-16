@@ -1,0 +1,10 @@
+What is the speed of light in vacuum (approximate km/s)?/**/250,000/**/300,000/**/350,000/**/400,000/**/B  
+Who developed the theory of general relativity?/**/Isaac Newton/**/Albert Einstein/**/Nikola Tesla/**/Stephen Hawking/**/B 
+Which element has the atomic number 92?/**/Uranium/**/Plutonium/**/Thorium/**/Radium/**/A  
+What is the capital of Mongolia?/**/Astana/**/Ulaanbaatar/**/Tashkent/**/Bishkek/**/B  
+Which mathematician is known as the "Prince of Mathematicians"?/**/Euler/**/Gauss/**/Fermat/**/Pythagoras/**/B  
+Which Nobel Prize category did Marie Curie win twice?/**/Physics/**/Chemistry/**/Medicine/**/Peace/**/A  
+What is the largest internal organ in the human body?/**/Liver/**/Heart/**/Brain/**/Lungs/**/A  
+Which programming language was developed by Dennis Ritchie?/**/Python/**/C/**/Java/**/C++/**/B  
+What is the rarest blood type?/**/A/**/B/**/O/**/AB Negative/**/AB C  
+Which Greek hero killed the Minotaur?/**/Hercules/**/Theseus/**/Achilles/**/Odysseus/**/B 
